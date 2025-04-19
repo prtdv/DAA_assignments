@@ -1,3 +1,4 @@
+//Write a program for N-Queen problem using Backtracking approach.
 #include<iostream>
 using namespace std;
 
