@@ -1,3 +1,4 @@
+//Write a program for Minimum Spanning Tree using Greedy approach ( Prim's Algorithm )
 #include<iostream>
 #define MAX 100
 #define INFI 9999
